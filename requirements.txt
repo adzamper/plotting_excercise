@@ -1,8 +1,10 @@
 numpy
+quadpy
 scipy
 matplotlib
 ipywidgets
 jupyter
+pymatsolver
 pandas
 utm
 pygmt
