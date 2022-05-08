@@ -10,5 +10,4 @@ dependencies:
   - ipywidgets>=0.6.0
   - pandas
   - pygmt
-  - pip:
-    - utm
+  - utm
