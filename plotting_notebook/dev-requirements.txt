@@ -1,8 +1,0 @@
-numpy
-scipy
-matplotlib
-ipywidgets
-jupyter
-pandas
-utm
-pygmt
