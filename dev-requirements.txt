@@ -1,8 +1,15 @@
 numpy
+quadpy
 scipy
 matplotlib
 ipywidgets
 jupyter
 pandas
+pymatsolver
+sphinx
+sphinx_rtd_theme
+nbsphinx
+testipynb
+pytest
 utm
 pygmt
