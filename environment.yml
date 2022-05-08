@@ -9,6 +9,6 @@ dependencies:
   - matplotlib
   - ipywidgets>=0.6.0
   - pandas
-  -pygmt
+  - pygmt
   - pip:
     - utm
